@@ -1,0 +1,11 @@
+{
+  "name": "homewordnode_03",
+  "version": "1.0.0",
+  "description": "HTTP сервер на express и два обработчика / и /about",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gennady111",
+  "license": "ISC"
+}
